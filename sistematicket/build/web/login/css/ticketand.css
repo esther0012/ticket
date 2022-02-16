@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(120deg, #f2f2f2, #f2f2f2);    
+}
+
+.card{
+    margin: 3%;
+    border-radius: 15px !important;
+    box-shadow: 5px 5px rgb(231, 199, 14);
+}
+
+.linha{
+    margin-top: 0%;
+     opacity: 50%;
+}
+
+.aviso{
+    text-align: center;
+}
+
+.botao{
+    text-align: center;
+}
+.paragrafo{
+    text-align: center;
+}
+
+.botao1{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.navbar{
+    height: 24%;
+}
+
+h3{
+    text-align: center;
+}

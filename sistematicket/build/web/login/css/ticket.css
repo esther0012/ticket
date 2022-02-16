@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(120deg, #f2f2f2, #f2f2f2);    
+}
+
+.card{
+    margin: 3%;
+    border-radius: 15px !important;
+    box-shadow: 5px 5px rgba(253, 0, 0, 0.712);
+
+}
+
+.linha{
+    margin-top: 0%;
+}
+
+.aviso{
+    text-align: center;
+}
+
+.botao{
+    text-align: center;
+    margin-bottom: 3%;
+}
+.paragrafo{
+    text-align: center;
+}
+
+.botao1{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.sombra{
+    box-shadow: 5px 5px rgba(253, 0, 0, 0.712);
+}
+
